@@ -11,6 +11,8 @@
 
 Para este ejercicio, se resolvió el reto 8: [Ordenando el almacén](https://adventjs.dev/es/challenges/2023/8).
 
+La solución del reto se encuentra en el archivo [`organizeGifts.js`](https://github.com/gonzalobarrazueta/leasein-challenge/blob/4d13d5e09576c4bee69ef90fe62edbe3c6ac355a/organizeGifts.js)
+
 # Ejercicio 2
 
 > Para resolver este ejercicio, debes usar como base lo que encuentras en la carpeta `js-mocha`
