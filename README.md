@@ -8,9 +8,8 @@
 5. Una vez terminado, comparte tu repo.
 
 # Ejercicio 1
-Dependiendo de tu nivel, elige un ejercicio de https://adventjs.dev/es#retos
-* Solo los practicantes pueden elegir el nivel fácil
-* Tu solución debe estar en tu repo y debes indicar que ejercicio resolviste.
+
+Para este ejercicio, se resolvió el reto 8: [Ordenando el almacén](https://adventjs.dev/es/challenges/2023/8).
 
 # Ejercicio 2
 
